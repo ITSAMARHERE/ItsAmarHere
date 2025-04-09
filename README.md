@@ -44,7 +44,7 @@
 | 🌟 Project | 🔧 Stack | 🚀 Status |
 |-----------|----------|----------|
 | 🛍️ **E-Commerce Platform** | MERN Stack | `In Progress` |
-| ✅ **Todo App (with Auth)** | React, Node.js, MongoDB, Firebase | `[Live & Functional(https://talka.onrender.com/login)]` |
+| ✅ **Todo App (with Auth)** | React, Node.js, MongoDB, Firebase | https://talka.onrender.com/login |
 | 🎓 **AI Learning Platform** | AI + MERN Stack | `WIP` |
 
 ---
