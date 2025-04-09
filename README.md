@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amar+Pal;B.Tech+Student+%7C+MERN+Stack+Dev+%7C+C%2B%2B+Enthusiast;Always+learning+%F0%9F%93%9A+%7C+Always+building+%F0%9F%9A%80" />
 </p>
 
-<!-- GitHub Banner (optional if added to your repo as banner.png) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ITSAMARHERE/ITSAMARHERE/main/banner.png" alt="Amar Pal GitHub Banner" />
-</p>
 
 <h1 align="center">🚀 Welcome to My GitHub Space</h1>
 
