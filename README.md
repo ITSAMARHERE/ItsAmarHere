@@ -46,10 +46,10 @@ Currently, I'm:
 
 ## 📫 Connect with Me
 
-- ✉️ Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/amarpal](https://www.linkedin.com/)
+- ✉️ Email: [amarpal.i.a.s@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/amarpal](https://www.linkedin.com/in/amar-pal-a945ba250/)]
 - 🌐 Portfolio: *Coming Soon...*
-- 🐱 GitHub: [github.com/amarpaldev](https://github.com/amarpaldev)
+- 🐱 GitHub: [github.com/amarpaldev](https://github.com/ITSAMARHERE)]
 
 ---
 
