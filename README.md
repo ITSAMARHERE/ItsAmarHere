@@ -1,72 +1,68 @@
-<h1 align="center">👋 Hi there, I'm Amar Pal</h1>
+<h1 align="center">Hi 👋, I'm Amar Pal</h1>
 
 <p align="center">
-  🎓 B.Tech Student (3rd Year) • 💻 MERN Stack Developer • 🚀 Tech Enthusiast • 🔍 Lifelong Learner
+  <b>B.Tech Student (3rd Year)</b><br>
+  MERN Stack Developer | C++ Learner | Tech Enthusiast | Open Source Explorer
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧠 About Me
 
-Hey! I'm **Amar Pal**, a passionate and curious **B.Tech 3rd year student** diving deep into full-stack web development, competitive programming, and building innovative projects.
-
-🔭 **Currently Working On**:  
-- 🌐 A full-featured **E-commerce platform** using the **MERN Stack**  
-- 🧠 A smart, gamified **AI-Powered Learning Platform** *(Work in Progress)*  
-- ✅ Improving my DSA skills through **C++** and problem-solving challenges
-
-💡 **Tech Curiosities**:  
-AI • Cloud Computing • Open Source • Web 3.0 • Productivity Tools
+- 🔭 Currently working on an **E-commerce Platform** using the MERN Stack  
+- 🌱 Learning **C++** and mastering DSA  
+- 👯 Looking to collaborate on **Open Source Projects & Startups**  
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, GitHub**  
+- 📫 How to reach me: [amarpal.i.a.s@gmail.com](mailto:amarpal.i.a.s@gmail.com)  
+- ⚡ Fun fact: I love building smart productivity tools and gamified learning systems!
 
 ---
 
-## 💡 Tech Stack
+### 🛠️ Tech Stack
 
-| Area | Technologies |
-|------|--------------|
-| **Languages** | JavaScript, C++, C, HTML, CSS |
-| **Frontend** | React.js, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB, Firebase (basic) |
-| **Tools** | Git, GitHub, Postman, VS Code, Netlify, Vercel |
-
----
-
-## 🚀 Projects Showcase
-
-- 🛍️ **E-Commerce Web App**  
-  A fully functional online store with product listings, user auth, cart & checkout. *(MERN Stack)*
-
-- ✅ **Todo App with Auth**  
-  A productivity tool with login (Google + email), sleek UI/UX & task history.
-
-- 📚 **AI-Powered Learning Platform** *(WIP)*  
-  Smart study planner with IQ tests, challenges, personalized learning, and gamification.
-
-> 💡 *Always building, always learning... stay tuned!*
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Projects
+
+- 🛍️ **E-Commerce App** – A complete shopping experience built on MERN  
+- ✅ **Todo App** – A productivity tracker with Google/email auth and user history  
+- 🎓 **AI-Based Learning Platform** *(In Progress)* – Personalized study plans, IQ tests, challenges, and gamification
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITSAMARHERE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ITSAMARHERE&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITSAMARHERE&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITSAMARHERE&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
-- 📧 Email: [amarpal.i.a.s@gmail.com](mailto:amarpal.i.a.s@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/amar-pal-a945ba250](https://www.linkedin.com/in/amar-pal-a945ba250/)  
-- 🐙 GitHub: [github.com/ITSAMARHERE](https://github.com/ITSAMARHERE)  
-- 🌐 Portfolio: *Coming Soon...*
+<p align="center">
+  <a href="mailto:amarpal.i.a.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amar-pal-a945ba250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ITSAMARHERE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
 <p align="center">
-  <em>“Code, Learn, Repeat – That’s my mantra!”</em><br>
-  🚀 Thanks for stopping by! Have an amazing day 😊
+  💬 “Code, Learn, Repeat – That’s my mantra!”<br>
+  Thank you for visiting! 😊
 </p>
