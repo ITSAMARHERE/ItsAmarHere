@@ -1,23 +1,58 @@
-## Hi there 👋
+# 👋 Hi there! I'm Amar Pal
 
+🎓 B.Tech Student (3rd Year) | 💻 MERN Stack Developer | 🚀 Tech Enthusiast | 🔍 Always Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+---
 
+## 🧑‍💻 About Me
 
-  
-<!--
-**ITSAMARHERE/ItsAmarHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm **Amar Pal**, a passionate and curious **B.Tech 3rd year student** with a strong interest in full-stack development, competitive programming, and building real-world projects.
 
-Here are some ideas to get you started:
+Currently, I'm:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Building an **E-commerce platform** using the **MERN Stack**  
+- 📘 Learning **C++** to improve my DSA & problem-solving skills  
+- 🧠 Exploring **AI**, **cloud computing**, and modern web tech  
+- 🛠️ Always excited to contribute to open-source and learn from the community
+
+---
+
+## 💡 Tech Stack
+
+- **Languages**: JavaScript, C++, HTML, CSS, C
+- **Frontend**: React.js, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, Firebase (basic)
+- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Netlify, Vercel
+
+---
+
+## 🚀 Projects
+
+- 🛍️ **E-Commerce Web App** – A fully functional online store using MERN
+- ✅ **Todo App** – Personal productivity tool with authentication and beautiful UI
+- 📚 **AI-Powered Learning Platform** *(WIP)* – Smart, gamified education using AI & ML
+
+> *Always working on something cool! Stay tuned for more...*
+
+---
+
+## 📈 GitHub Stats
+
+![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarpaldev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpaldev&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ Email: [your-email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/amarpal](https://www.linkedin.com/)
+- 🌐 Portfolio: *Coming Soon...*
+- 🐱 GitHub: [github.com/amarpaldev](https://github.com/amarpaldev)
+
+---
+
+_“Code, Learn, Repeat – That’s my mantra!”_
+
+Thanks for visiting my profile! 😊
