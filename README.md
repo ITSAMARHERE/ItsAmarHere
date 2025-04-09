@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Student**: 3rd Year B.Tech (CSE)
+- 🎓 **Student**: 3rd Year B.Tech [CSE(AI&ML)]
 - 🔭 **Currently Building**: A full-featured **E-commerce platform** (MERN stack)
 - 📚 **Learning**: **C++**, DSA, and scalable architecture
 - 💡 **Passionate about**: Full-stack development, AI, productivity tools & gamified education
