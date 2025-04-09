@@ -39,8 +39,8 @@ Currently, I'm:
 
 ## 📈 GitHub Stats
 
-![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarpaldev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpaldev&layout=compact&theme=radical)
+![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITSAMARHERE&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSAMARHERE&layout=compact&theme=radical)
 
 ---
 
