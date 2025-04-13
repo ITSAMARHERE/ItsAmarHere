@@ -1,8 +1,7 @@
-# <div align="center">AMAR PAL</div>
-
 <div align="center">
   <img src="https://github.com/ITSAMARHERE/assets/blob/main/images/github-banner.svg" alt="Amar Pal - MERN Stack Developer & Problem Solver" width="100%" />
   
+  # <div align="center">Hey there 👋 I'm AMAR PAL</div>
   <h2>Full Stack Developer | Problem Solver | Tech Enthusiast</h2>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-pal-a945ba250/)
