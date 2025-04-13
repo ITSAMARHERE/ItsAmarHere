@@ -1,29 +1,15 @@
-<!-- Animated Typing Banner -->
-<!-- HTML Banner for GitHub README -->
+# <div align="center">AMAR PAL</div>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/amar-pal-a945ba250/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amar-pal-a945ba250/" alt="LinkedIn">
-  </a>
-  
-  <div style="background: linear-gradient(to right, #0D1117, #161B22); border-radius: 10px; padding: 20px; margin: 10px 0; border-left: 5px solid #00ffa3;">
-    <h1 style="color: white; font-size: 40px; margin: 10px 0;">AMAR PAL</h1>
-    <p style="color: #00ffa3; font-size: 20px; margin: 10px 0;">MERN Stack Developer & Problem Solver</p>
-    <p style="color: #ccc; font-size: 16px;">B.Tech Student | Full Stack Developer | C++ Enthusiast</p>
-  </div>
+  <img src="https://your-banner-image-url.com/github-banner.svg" alt="Amar Pal - MERN Stack Developer & Problem Solver" width="100%" />
+  <h3>MERN Stack Developer & Problem Solver</h3>
+  <p>B.Tech Student | Full Stack Developer | C++ Enthusiast</p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-pal-a945ba250/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarpal.i.a.s@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.amarhere/?hl=en)
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ITSAMARHERE/ITSAMARHERE/main/github-banner.svg" alt="Amar Pal - MERN Stack Developer & Problem Solver" width="100%" />
-</p>
-
-<h1 align="center">🚀 Welcome to My Digital Workshop</h1>
-
-<p align="center">
-  <a href="mailto:amarpal.i.a.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/amar-pal-a945ba250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ITSAMARHERE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/its.amarhere/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
 
 ---
 
