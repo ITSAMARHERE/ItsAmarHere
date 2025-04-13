@@ -1,7 +1,7 @@
 # <div align="center">AMAR PAL</div>
 
 <div align="center">
-  <img src="https://your-banner-image-url.com/github-banner.svg" alt="Amar Pal - MERN Stack Developer & Problem Solver" width="100%" />
+  <img src="https://github.com/ITSAMARHERE/assets/blob/main/images/github-banner.svg" alt="Amar Pal - MERN Stack Developer & Problem Solver" width="100%" />
   <h3>MERN Stack Developer & Problem Solver</h3>
   <p>B.Tech Student | Full Stack Developer | C++ Enthusiast</p>
 
