@@ -1,7 +1,16 @@
 <!-- Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FFA3&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amar+Pal;MERN+Stack+Developer+%7C+C%2B%2B+Enthusiast;Building+the+future+%F0%9F%9A%80+one+line+at+a+time" />
-</p>
+<!-- HTML Banner for GitHub README -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/amar-pal-a945ba250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amar-pal-a945ba250/" alt="LinkedIn">
+  </a>
+  
+  <div style="background: linear-gradient(to right, #0D1117, #161B22); border-radius: 10px; padding: 20px; margin: 10px 0; border-left: 5px solid #00ffa3;">
+    <h1 style="color: white; font-size: 40px; margin: 10px 0;">AMAR PAL</h1>
+    <p style="color: #00ffa3; font-size: 20px; margin: 10px 0;">MERN Stack Developer & Problem Solver</p>
+    <p style="color: #ccc; font-size: 16px;">B.Tech Student | Full Stack Developer | C++ Enthusiast</p>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ITSAMARHERE/ITSAMARHERE/main/github-banner.svg" alt="Amar Pal - MERN Stack Developer & Problem Solver" width="100%" />
