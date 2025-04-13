@@ -2,9 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/ITSAMARHERE/assets/blob/main/images/github-banner.svg" alt="Amar Pal - MERN Stack Developer & Problem Solver" width="100%" />
-  <h3>MERN Stack Developer & Problem Solver</h3>
-  <p>B.Tech Student | Full Stack Developer | C++ Enthusiast</p>
-
+  Hey there! I'm Amar Pal
+Passionate Developer from India - Coding, Creating, Growing.
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-pal-a945ba250/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarpal.i.a.s@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE)
