@@ -66,7 +66,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
     <th>Status</th>
   </tr>
   <tr>
-    <td>🛍️ <b>E-Commerce Platform</b></td>
+    <td>🛍️ <b><a href="https://ecommerce-1-sur7.onrender.com/auth/login">E-Commerce Platform</a></b></td>
     <td>MERN Stack</td>
     <td>Comprehensive online shopping solution with user authentication, product catalog management, cart functionality, and secure payment integration.</td>
     <td><code>In Development</code></td>
