@@ -77,6 +77,12 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
     <td>Intuitive task management application featuring user authentication, real-time updates, task categorization, and progress tracking.</td>
     <td><code>Live</code></td>
   </tr>
+   <tr>
+    <td>✅ <b><a href="https://password-manager-1-3ne8.onrender.com/">PassVault</a></b></td>
+    <td>React, Node.js, MongoDB</td>
+    <td>Manage your saved passwords.</td>
+    <td><code>Live</code></td>
+  </tr>
   <tr>
     <td>🎓 <b>AI Learning Platform</b></td>
     <td>MERN Stack + AI</td>
