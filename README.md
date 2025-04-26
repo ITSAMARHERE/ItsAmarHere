@@ -78,7 +78,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
     <td><code>Live</code></td>
   </tr>
    <tr>
-    <td>✅ <b><a href="https://password-manager-1-3ne8.onrender.com/">PassVault</a></b></td>
+    <td>🔑 <b><a href="https://password-manager-1-3ne8.onrender.com/">PassVault</a></b></td>
     <td>React, Node.js, MongoDB</td>
     <td>Manage your saved passwords with proper authentication .</td>
     <td><code>Live</code></td>
