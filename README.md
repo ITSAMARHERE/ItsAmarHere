@@ -104,7 +104,7 @@
 *A full-scale digital marketplace with advanced features like real-time inventory, secure payments, admin analytics, and responsive design.*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://ecommerce-1-sur7.onrender.com/auth/login)
-[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/ECommerce-)
 
 </td>
 <td align="center" width="50%">
@@ -116,7 +116,7 @@
 *Real-time task management platform with live collaboration, progress tracking, and intuitive project organization.*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://talka.onrender.com/login)
-[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/Talka)
 
 </td>
 </tr>
@@ -130,19 +130,19 @@
 *Military-grade password manager with advanced encryption, biometric authentication, and secure cloud synchronization.*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://password-manager-1-3ne8.onrender.com/)
-[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/Password_Manager)
 
 </td>
 <td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=ai-learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 
-### 🤖 **AI LEARNING NEXUS**
+### 🤖 **NEXT GENIUS**
 **`MERN • OpenAI • TensorFlow • ML`**
 
 *Next-generation adaptive learning platform powered by AI algorithms for personalized educational experiences.*
 
 [![Coming Soon](https://img.shields.io/badge/Coming%20Soon-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](#)
-[![Code](https://img.shields.io/badge/In%20Development-FFA726?style=for-the-badge&logo=code&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/In%20Development-FFA726?style=for-the-badge&logo=code&logoColor=white)](https://github.com/ITSAMARHERE/NextGenius)
 
 </td>
 </tr>
