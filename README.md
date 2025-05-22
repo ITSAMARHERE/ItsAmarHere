@@ -1,184 +1,259 @@
 <div align="center">
-  <img src="https://github.com/ITSAMARHERE/assets/blob/main/images/github-banner.svg" alt="Amar Pal - MERN Stack Developer & Problem Solver" width="100%" />
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Amar+Pal;Full+Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
+# 🌟 AMAR PAL 🌟
+### 『 Full Stack Architect • AI Visionary • Digital Craftsman 』
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=WELCOME+TO+MY+DIGITAL+REALM;CRAFTING+THE+FUTURE+WITH+CODE;MERN+STACK+VIRTUOSO;AI+%26+ML+PIONEER;INNOVATION+THROUGH+TECHNOLOGY" alt="Typing SVG" />
 
-## 🖥️ `whoami`
-
-```javascript
-const amar = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "C++", "Python", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "ai/ml", "algorithms"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Redux"],
-            css: ["Tailwind", "Bootstrap", "Styled-Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            databases: ["MongoDB", "Firebase", "PostgreSQL"]
-        },
-        devOps: ["Docker", "AWS", "Heroku", "Vercel"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Design Patterns"],
-    currentFocus: "Building scalable web applications with AI integration",
-    funFact: "I debug with console.log() and I'm not ashamed of it! 🐛"
-};
-```
-
-## 🔥 Tech Arsenal
-
-<div align="center">
-
-```yaml
-Languages:
-  Primary: [C++, JavaScript, Python]
-  Learning: [TypeScript, Go, Rust]
-
-Frontend:
-  Frameworks: [React.js, Next.js, Vue.js]
-  Styling: [Tailwind CSS, Styled Components, SASS]
-  State Management: [Redux, Zustand, Context API]
-
-Backend:
-  Runtime: [Node.js, Deno]
-  Frameworks: [Express.js, Fastify, Nest.js]
-  Databases: [MongoDB, PostgreSQL, Redis]
-
-DevOps & Cloud:
-  Platforms: [AWS, Vercel, Heroku, Netlify]
-  Tools: [Docker, Git, GitHub Actions]
-
-AI/ML:
-  Libraries: [TensorFlow, PyTorch, OpenAI API]
-  Focus: [Computer Vision, NLP, LLMs]
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 </div>
 
-<div align="center">
+---
 
-### 🛠️ **Tech Stack**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-## 🏗️ Featured Projects
+## 🔮 DIGITAL IDENTITY
 
 <div align="center">
 
-| Project | Tech Stack | Description | Status | Demo |
-|---------|------------|-------------|--------|------|
-| 🛒 **E-Commerce Platform** | `MERN` `Redux` `Stripe` | Full-featured online store with admin panel, payment gateway, and real-time inventory | 🟢 Live | [View](https://ecommerce-1-sur7.onrender.com/auth/login) |
-| 💬 **Talka** | `React` `Node.js` `Socket.io` | Real-time task management with live collaboration features | 🟢 Live | [View](https://talka.onrender.com/login) |
-| 🔐 **PassVault** | `MERN` `JWT` `Bcrypt` | Secure password manager with encryption and 2FA | 🟢 Live | [View](https://password-manager-1-3ne8.onrender.com/) |
-| 🤖 **AI Learning Platform** | `MERN` `OpenAI` `TensorFlow` | Adaptive learning platform with AI-powered personalization | 🟡 Development | Coming Soon |
+<table>
+<tr>
+<td width="50%">
 
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ITSAMARHERE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A9A9A9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ITSAMARHERE&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=A9A9A9&sideNums=A9A9A9&currStreakLabel=F85D7F" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITSAMARHERE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A9A9A9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ITSAMARHERE&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A9A9A9" />
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSAMARHERE&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&line=F85D7F&point=F8D866&area_color=F85D7F" width="100%" />
-</div>
-
-## 🎯 Current Focus
-
-```typescript
-interface CurrentGoals {
-  learning: string[];
-  building: string[];
-  contributing: string[];
-  exploring: string[];
+```json
+{
+  "name": "Amar Pal",
+  "role": "Full Stack Developer",
+  "location": "India 🇮🇳",
+  "education": "B.Tech CS with AI & ML",
+  "passion": "Building Digital Dreams",
+  "status": "Always Learning 🚀",
+  "coffee_consumed": "∞ cups ☕",
+  "bugs_fixed": "9999+ 🐛",
+  "dreams_coded": "Countless ✨"
 }
-
-const currentFocus: CurrentGoals = {
-  learning: [
-    "Advanced System Design",
-    "Microservices Architecture", 
-    "AI/ML Integration in Web Apps",
-    "Cloud Native Development"
-  ],
-  building: [
-    "AI-Powered E-Learning Platform",
-    "Real-time Collaboration Tools",
-    "Open Source React Components"
-  ],
-  contributing: [
-    "Open Source Projects",
-    "Tech Community Content",
-    "Code Reviews & Mentoring"
-  ],
-  exploring: [
-    "Web3 & Blockchain",
-    "Edge Computing",
-    "Progressive Web Apps"
-  ]
-};
 ```
 
-## 🤝 Connect With Me
+</td>
+<td width="50%">
 
-<div align="center">
+### 🎯 MISSION STATEMENT
+*"Transforming ideas into elegant, scalable solutions that push the boundaries of what's possible in the digital realm."*
 
-```bash
-# Let's connect and build something amazing together!
-git clone https://github.com/ITSAMARHERE/collaboration.git
-cd collaboration
-npm install friendship
-npm start conversation
-```
+**🔥 CURRENT OBSESSIONS:**
+- 🚀 Building next-gen web experiences
+- 🤖 Integrating AI into everyday applications  
+- 🌊 Mastering advanced algorithms
+- 🎨 Creating intuitive user interfaces
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-pal-a945ba250/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmsl.aiml.amarpal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.amarhere/?hl=en)
+</td>
+</tr>
+</table>
 
 </div>
 
-## 💭 Random Dev Quote
+---
+
+## ⚡ TECH MASTERY MATRIX
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎭 FRONTEND SORCERY
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎯 BACKEND WIZARDRY  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 DEVELOPMENT ARSENAL
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🤖 AI & ALGORITHMS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
-## 🐍 Contribution Snake
+---
+
+## 🏆 MASTERPIECE PORTFOLIO
 
 <div align="center">
-  
-![Snake animation](https://github.com/ITSAMARHERE/ITSAMARHERE/blob/output/github-contribution-grid-snake.svg)
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+### 🛒 **E-COMMERCE EMPIRE**
+**`MERN • Redux • Stripe • JWT`**
+
+*A full-scale digital marketplace with advanced features like real-time inventory, secure payments, admin analytics, and responsive design.*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://ecommerce-1-sur7.onrender.com/auth/login)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=talka&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+### 💬 **TALKA COLLABORATION HUB**
+**`React • Node.js • Socket.io • MongoDB`**
+
+*Real-time task management platform with live collaboration, progress tracking, and intuitive project organization.*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://talka.onrender.com/login)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=passvault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+### 🔐 **PASSVAULT SECURITY SUITE**
+**`MERN • JWT • Bcrypt • AES Encryption`**
+
+*Military-grade password manager with advanced encryption, biometric authentication, and secure cloud synchronization.*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://password-manager-1-3ne8.onrender.com/)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=ai-learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+### 🤖 **AI LEARNING NEXUS**
+**`MERN • OpenAI • TensorFlow • ML`**
+
+*Next-generation adaptive learning platform powered by AI algorithms for personalized educational experiences.*
+
+[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/In%20Development-FFA726?style=for-the-badge&logo=code&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 PERFORMANCE ANALYTICS
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ITSAMARHERE&theme=discord&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ITSAMARHERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&fire_color=FF6B6B" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSAMARHERE&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&dates=58A6FF" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITSAMARHERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</td>
+<td width="50%">
+
+### 🎯 **CODING METRICS**
+```
+Total Commits: 1000+ 📝
+Projects Completed: 15+ 🚀  
+Languages Mastered: 8+ 💻
+Coffee Cups: ♾️ ☕
+Debug Sessions: 999+ 🐛
+"Hello World"s: Countless 🌍
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌊 CONTRIBUTION WAVES
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSAMARHERE&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&title_color=58A6FF&custom_title=Contribution%20Activity%20Graph" width="100%" />
+</div>
+
+---
+
+## 🎨 SKILL CONSTELLATION
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,cpp,git,docker,aws,vscode&theme=dark" />
+
+### 🔥 EXPERTISE LEVELS
+
+<table>
+<tr>
+<td align="center"><strong>Frontend Development</strong></td>
+<td align="center">████████████████████ 100%</td>
+</tr>
+<tr>
+<td align="center"><strong>Backend Development</strong></td>
+<td align="center">██████████████████░░ 90%</td>
+</tr>
+<tr>
+<td align="center"><strong>Database Management</strong></td>
+<td align="center">███████████████████░ 95%</td>
+</tr>
+<tr>
+<td align="center"><strong>AI & Machine Learning</strong></td>
+<td align="center">████████████████░░░░ 80%</td>
+</tr>
+<tr>
+<td align="center"><strong>Problem Solving</strong></td>
+<td align="center">████████████████████ 100%</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 CONNECT & COLLABORATE
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=header&text=Let's%20Build%20Something%20Amazing&fontSize=30&fontColor=fff&animation=fadeIn" width="100%"/>
+
+### 🌐 **DIGITAL PRESENCE**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/amar-pal-a945ba250/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:tmsl.aiml.amarpal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ITSAMARHERE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/its.amarhere/?hl=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=000000)](#)
+
+### 💫 **COLLABORATION OPPORTUNITIES**
+- 🤝 Open Source Contributions
+- 💼 Freelance Projects  
+- 🎓 Mentoring & Knowledge Sharing
+- 🚀 Startup Collaborations
+- 🎯 Technical Consulting
 
 </div>
 
@@ -186,20 +261,20 @@ npm start conversation
 
 <div align="center">
 
-```javascript
-// Life motto
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
+### 🌟 **INSPIRATION CORNER**
 
-**Thanks for visiting! Let's build the future together.** 🚀
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ITSAMARHERE&label=Profile%20Views&color=brightgreen&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ITSAMARHERE?label=Followers&style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/ITSAMARHERE?label=Stars&style=flat-square&color=yellow)
+---
+
+### 📈 **VISITOR ANALYTICS**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ITSAMARHERE&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ITSAMARHERE?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/ITSAMARHERE?label=Total%20Stars&style=for-the-badge&color=FFA726&labelColor=000000)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**✨ Thank you for exploring my digital universe! Let's create something extraordinary together. ✨**
 
 </div>
