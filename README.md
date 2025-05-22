@@ -96,7 +96,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=ECommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 
 ### 🛒 **E-COMMERCE EMPIRE**
 **`MERN • Redux • Stripe • JWT`**
@@ -122,7 +122,7 @@
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=passvault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=Password_Manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 
 ### 🔐 **PASSVAULT SECURITY SUITE**
 **`MERN • JWT • Bcrypt • AES Encryption`**
@@ -134,7 +134,7 @@
 
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=ai-learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=NextGenius&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 
 ### 🤖 **NEXT GENIUS**
 **`MERN • OpenAI • TensorFlow • ML`**
