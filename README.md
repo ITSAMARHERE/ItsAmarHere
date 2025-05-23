@@ -249,7 +249,6 @@ Debug Sessions: 999+ 🐛
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=000000)](#)
 
 ### 💫 **COLLABORATION OPPORTUNITIES**
-- 🤝 Open Source Contributions
 - 💼 Freelance Projects  
 - 🎓 Mentoring & Knowledge Sharing
 - 🚀 Startup Collaborations
