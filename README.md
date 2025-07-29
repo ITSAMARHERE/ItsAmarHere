@@ -112,21 +112,21 @@ Secure password manager with military-grade encryption, biometric authentication
 </td>
 <td width="50%" align="center">
 
-### 🤖 **NextGenius AI**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=NextGenius&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
+### 💬 **SocialSphere - Community Forum**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=SocialSphere&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
 
-**Tech Stack:** `MERN` `OpenAI` `TensorFlow` `ML`
+**Tech Stack:** `React` `TypeScript` `Vite` `superBase` `TailwindCss`
 
-AI-powered adaptive learning platform with personalized educational experiences and intelligent content recommendations.
+A comprehensive social media platform where users can connect, share updates, upload photos, and engage in real-time conversations with friends and communities.
 
-[![Coming Soon](https://img.shields.io/badge/🚀_Coming_Soon-orange?style=for-the-badge)](https://github.com/ITSAMARHERE/NextGenius)
-[![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/NextGenius)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00f5ff?style=for-the-badge)](https://social-sphere-smoky.vercel.app/)
+[![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/SocialSphere)
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" align="center">
 
-</div>
 
 ---
 
