@@ -126,8 +126,6 @@ A comprehensive social media platform where users can connect, share updates, up
 </tr>
 <tr>
 <td width="50%" align="center">
-
-
 ---
 
 ## 📊 **GITHUB ANALYTICS**
