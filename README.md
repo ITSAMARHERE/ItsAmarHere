@@ -99,12 +99,12 @@ Real-time collaborative task management platform with live updates, progress tra
 <tr>
 <td width="50%" align="center">
 
-### 🔐 **Mini-Linkeidn**
+###  💬 **Mini-Linkeidn**
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=Password_Manager&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
 
 **Tech Stack:** `MERN` `JWT` `Bcrypt` `AES Encryption`
 
-Secure password manager with military-grade encryption, biometric authentication, and cloud synchronization.
+A full-stack LinkedIn clone built with the MERN stack, featuring real-time social networking capabilities, professional networking tools, and a modern responsive design.
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00f5ff?style=for-the-badge)](https://mini-linkedin-frontend-enib.onrender.com/)
 [![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/Mini_Linkedin)
