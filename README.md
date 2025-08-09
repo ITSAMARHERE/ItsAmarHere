@@ -100,7 +100,7 @@ Real-time collaborative task management platform with live updates, progress tra
 <td width="50%" align="center">
 
 ###  💬 **Mini-Linkeidn**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=Password_Manager&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=Mini_Linkedin&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
 
 **Tech Stack:** `MERN` `JWT` `Bcrypt` `AES Encryption`
 
