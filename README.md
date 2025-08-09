@@ -99,15 +99,15 @@ Real-time collaborative task management platform with live updates, progress tra
 <tr>
 <td width="50%" align="center">
 
-### 🔐 **PassVault Manager**
+### 🔐 **Mini-Linkeidn**
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=Password_Manager&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
 
 **Tech Stack:** `MERN` `JWT` `Bcrypt` `AES Encryption`
 
 Secure password manager with military-grade encryption, biometric authentication, and cloud synchronization.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00f5ff?style=for-the-badge)](https://password-manager-1-3ne8.onrender.com/)
-[![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/Password_Manager)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00f5ff?style=for-the-badge)](https://mini-linkedin-frontend-enib.onrender.com/)
+[![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/Mini_Linkedin)
 
 </td>
 <td width="50%" align="center">
