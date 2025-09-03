@@ -15,8 +15,7 @@
 
 ```typescript
 const AmarPal = {
-    location: "Kolkata, West Bengal
-",
+    location: "Kolkata, West Bengal",
     education: "B.Tech CS with AI & ML",
     currentFocus: ["Full Stack Development", "AI Integration", "System Design"],
     workingOn: "Next-gen web applications with AI capabilities",
