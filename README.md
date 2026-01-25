@@ -17,7 +17,7 @@
 const AmarPal = {
     location: "Kolkata, West Bengal",
     education: "B.Tech CS with AI & ML",
-    currentFocus: ["Full Stack Development", "AI Integration", "System Design"],
+    currentFocus: ["Full Stack Development", "AI Integration"],
     workingOn: "Next-gen web applications with AI capabilities",
     learning: ["Advanced Algorithms", "Cloud Architecture", "DevOps"],
     funFact: "I debug with console.log and I'm not ashamed! 🐛",
