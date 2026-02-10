@@ -80,107 +80,169 @@ const amar = {
 
 ## 🎯 Featured Projects
 
-### 🏥 **Campus Care - Digital Mental Health Platform**
-> A comprehensive mental health support platform for students with real-time interaction features
+<div align="center">
 
-**Tech Stack:** `Node.js` `REST APIs` `PostgreSQL` `React` `Real-time Features`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Key Features:**
-- Backend services with optimized database schemas
-- Real-time interaction capabilities
-- User activity analytics for performance insights
-- Scalable architecture for growth
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stethoscope.png" width="25" height="25" /> Campus Care
+**Digital Mental Health Platform**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://campuscare.live/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANISHAGRWAL/SIH_25)
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
-**Timeline:** Aug 2025 - Nov 2025
+A comprehensive mental health support platform for students featuring real-time interactions, optimized database schemas, and user activity analytics.
 
----
+**Highlights:**
+- 🔄 Real-time interaction capabilities
+- 📊 Advanced analytics dashboard
+- ⚡ Optimized performance
+- 🔐 Secure data management
 
-### 🛍️ **E-Commerce Platform with Admin Panel**
-> Full-featured e-commerce solution with advanced cart management and admin analytics
+<div align="center">
 
-**Tech Stack:** `React` `Redux Toolkit` `Node.js` `MongoDB` `Stripe` `JWT`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://campuscare.live/)
+[![Code](https://img.shields.io/badge/📂_Code-2ea44f?style=for-the-badge)](https://github.com/ANISHAGRWAL/SIH_25)
 
-**Key Features:**
-- Complete product catalog with advanced filtering
-- Secure payment integration with Stripe
-- Role-based access control for admin operations
-- 30% improvement in API response time through database optimization
-- Comprehensive admin dashboard with analytics
+</div>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-1-sur7.onrender.com/auth/login)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/ECommerce-)
+</td>
+<td width="50%" valign="top">
 
-**Timeline:** Apr 2025 - Jun 2025
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="25" height="25" /> E-Commerce Platform
+**Full-Stack Shopping Solution**
 
----
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
-### 💬 **Talka - Task Management Platform**
-> Real-time collaborative task manager with live updates and team coordination
+Feature-rich e-commerce platform with advanced cart management, Stripe payment integration, and comprehensive admin panel.
 
-**Tech Stack:** `React` `Node.js` `Socket.io` `MongoDB` `Express`
+**Highlights:**
+- 💳 Secure Stripe payment gateway
+- 👨‍💼 Role-based admin controls
+- 🚀 30% faster API responses
+- 📈 Real-time analytics
 
-**Key Features:**
-- Real-time task updates using WebSocket
-- Team collaboration and progress tracking
-- Interactive dashboard for task visualization
-- Responsive design for mobile and desktop
+<div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://talka.onrender.com/login)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/Talka)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://ecommerce-1-sur7.onrender.com/auth/login)
+[![Code](https://img.shields.io/badge/📂_Code-2ea44f?style=for-the-badge)](https://github.com/ITSAMARHERE/ECommerce-)
 
----
+</div>
 
-### 💼 **Mini-LinkedIn - Professional Networking Platform**
-> A full-stack professional networking application with real-time social features
+</td>
+</tr>
 
-**Tech Stack:** `MERN Stack` `JWT` `Bcrypt` `AES Encryption` `Socket.io`
+<tr>
+<td width="50%" valign="top">
 
-**Key Features:**
-- Secure authentication with encryption
-- Professional profile management
-- Real-time connection requests and messaging
-- Modern, responsive UI design
-- Post creation and engagement features
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="25" height="25" /> Talka
+**Collaborative Task Manager**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://mini-linkedin-frontend-enib.onrender.com/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/Mini_Linkedin)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
----
+Real-time task management platform with live updates, team collaboration features, and interactive progress tracking.
 
-### 🌐 **SocialSphere - Community Forum**
-> Modern social media platform for connecting and sharing with communities
+**Highlights:**
+- ⚡ WebSocket real-time sync
+- 👥 Team collaboration tools
+- 📱 Fully responsive design
+- 📊 Visual task dashboards
 
-**Tech Stack:** `React` `TypeScript` `Vite` `Supabase` `Tailwind CSS`
+<div align="center">
 
-**Key Features:**
-- Photo upload and sharing capabilities
-- Real-time conversations and updates
-- Community engagement features
-- Type-safe codebase with TypeScript
-- Modern UI with Tailwind CSS
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://talka.onrender.com/login)
+[![Code](https://img.shields.io/badge/📂_Code-2ea44f?style=for-the-badge)](https://github.com/ITSAMARHERE/Talka)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://social-sphere-smoky.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/SocialSphere)
+</div>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 **Customer Segmentation using K-Means**
-> Machine learning project for behavioral customer clustering and insights
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" height="25" /> Mini-LinkedIn
+**Professional Networking Hub**
 
-**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
+<img src="https://img.shields.io/badge/MERN-00D9FF?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
 
-**Key Features:**
-- Unsupervised learning with K-Means clustering
-- Elbow Method for optimal cluster determination
-- Data visualization with Matplotlib
-- Actionable insights for targeted marketing strategies
+Full-stack professional networking platform with secure authentication, real-time messaging, and connection management.
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/customer_segmentation)
+**Highlights:**
+- 🔒 AES encryption security
+- 💬 Real-time messaging
+- 🤝 Connection requests
+- 📝 Post engagement system
 
-**Timeline:** Jan 2026
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://mini-linkedin-frontend-enib.onrender.com/)
+[![Code](https://img.shields.io/badge/📂_Code-2ea44f?style=for-the-badge)](https://github.com/ITSAMARHERE/Mini_Linkedin)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="25" height="25" /> SocialSphere
+**Community Social Platform**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+Modern social media platform enabling photo sharing, real-time conversations, and community engagement.
+
+**Highlights:**
+- 📸 Photo upload & sharing
+- 💬 Real-time conversations
+- ✅ Type-safe codebase
+- 🎨 Modern Tailwind UI
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://social-sphere-smoky.vercel.app/)
+[![Code](https://img.shields.io/badge/📂_Code-2ea44f?style=for-the-badge)](https://github.com/ITSAMARHERE/SocialSphere)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" height="25" /> Customer Segmentation
+**ML Clustering Analysis**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+
+Machine learning project using K-Means clustering for customer behavioral analysis and targeted marketing insights.
+
+**Highlights:**
+- 🤖 K-Means clustering algorithm
+- 📊 Elbow Method optimization
+- 📈 Data visualization
+- 💡 Actionable insights
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/📂_Code-2ea44f?style=for-the-badge)](https://github.com/ITSAMARHERE/customer_segmentation)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
