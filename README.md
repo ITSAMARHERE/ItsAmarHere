@@ -1,245 +1,251 @@
 <div align="center">
 
-# ⚡ AMAR PAL
-## `< Full Stack Developer />` • `AI Enthusiast` • `Problem Solver`
+# 👋 Hi, I'm Amar Pal
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+the+Future+with+Code;MERN+Stack+%7C+AI+%7C+Innovation" alt="Typing Animation" />
+### Full Stack Developer | AI Enthusiast | Problem Solver
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+Collaboration+%26+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 **WHO AM I?**
+## 🚀 About Me
 
-```typescript
-const AmarPal = {
-    location: "Kolkata, West Bengal",
-    education: "B.Tech CS with AI & ML",
-    currentFocus: ["Full Stack Development", "AI Integration"],
-    workingOn: "Next-gen web applications with AI capabilities",
-    learning: ["Advanced Algorithms", "Cloud Architecture", "DevOps"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛",
-    
-    lifePhilosophy: "Code is poetry, algorithms are art, and bugs are just features in disguise ✨"
+```javascript
+const amar = {
+    location: "Kolkata, West Bengal, India",
+    education: "B.Tech CSE (AI/ML) - CGPA: 7.52",
+    currentRole: "Software Development Intern @ Intelligent Creation",
+    interests: ["Full Stack Development", "AI/ML", "Cloud Computing"],
+    currentlyLearning: ["System Design", "AWS", "Docker", "Advanced Algorithms"],
+    openTo: ["Full-time Opportunities", "Freelance Projects", "Open Source Collaboration"]
 };
 ```
 
+**🎓 Education:** B.Tech in Computer Science & Engineering (AI/ML), Techno Main Salt Lake  
+**💼 Experience:** Software Development Intern at Intelligent Creation, Pune (Aug 2025 - Jan 2026)  
+**🌱 Focus:** Building production-ready applications with modern tech stacks
+
 ---
 
-## 🛠️ **TECH ARSENAL**
+## 💻 Tech Stack
 
 <div align="center">
 
-### **Frontend Mastery**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### **Backend Excellence**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **AI & Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### **Tools & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 **FEATURED PROJECTS**
+## 🎯 Featured Projects
+
+### 🏥 **Campus Care - Digital Mental Health Platform**
+> A comprehensive mental health support platform for students with real-time interaction features
+
+**Tech Stack:** `Node.js` `REST APIs` `PostgreSQL` `React` `Real-time Features`
+
+**Key Features:**
+- Backend services with optimized database schemas
+- Real-time interaction capabilities
+- User activity analytics for performance insights
+- Scalable architecture for growth
+
+**Timeline:** Aug 2025 - Nov 2025
+
+---
+
+### 🛍️ **E-Commerce Platform with Admin Panel**
+> Full-featured e-commerce solution with advanced cart management and admin analytics
+
+**Tech Stack:** `React` `Redux Toolkit` `Node.js` `MongoDB` `Stripe` `JWT`
+
+**Key Features:**
+- Complete product catalog with advanced filtering
+- Secure payment integration with Stripe
+- Role-based access control for admin operations
+- 30% improvement in API response time through database optimization
+- Comprehensive admin dashboard with analytics
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-1-sur7.onrender.com/auth/login)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/ECommerce-)
+
+**Timeline:** Apr 2025 - Jun 2025
+
+---
+
+### 💬 **Talka - Task Management Platform**
+> Real-time collaborative task manager with live updates and team coordination
+
+**Tech Stack:** `React` `Node.js` `Socket.io` `MongoDB` `Express`
+
+**Key Features:**
+- Real-time task updates using WebSocket
+- Team collaboration and progress tracking
+- Interactive dashboard for task visualization
+- Responsive design for mobile and desktop
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://talka.onrender.com/login)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/Talka)
+
+---
+
+### 💼 **Mini-LinkedIn - Professional Networking Platform**
+> A full-stack professional networking application with real-time social features
+
+**Tech Stack:** `MERN Stack` `JWT` `Bcrypt` `AES Encryption` `Socket.io`
+
+**Key Features:**
+- Secure authentication with encryption
+- Professional profile management
+- Real-time connection requests and messaging
+- Modern, responsive UI design
+- Post creation and engagement features
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://mini-linkedin-frontend-enib.onrender.com/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/Mini_Linkedin)
+
+---
+
+### 🌐 **SocialSphere - Community Forum**
+> Modern social media platform for connecting and sharing with communities
+
+**Tech Stack:** `React` `TypeScript` `Vite` `Supabase` `Tailwind CSS`
+
+**Key Features:**
+- Photo upload and sharing capabilities
+- Real-time conversations and updates
+- Community engagement features
+- Type-safe codebase with TypeScript
+- Modern UI with Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://social-sphere-smoky.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/SocialSphere)
+
+---
+
+### 📊 **Customer Segmentation using K-Means**
+> Machine learning project for behavioral customer clustering and insights
+
+**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
+
+**Key Features:**
+- Unsupervised learning with K-Means clustering
+- Elbow Method for optimal cluster determination
+- Data visualization with Matplotlib
+- Actionable insights for targeted marketing strategies
+
+**Timeline:** Jan 2026
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ITSAMARHERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ITSAMARHERE&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=fb7185&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&dates=70a5fd" />
 
-### 🛍️ **E-Commerce Platform**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=ECommerce-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
-
-**Tech Stack:** `MERN` `Redux` `Stripe` `JWT`
-
-A full-featured e-commerce platform with advanced cart management, secure payment processing, and admin analytics dashboard.
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00f5ff?style=for-the-badge)](https://ecommerce-1-sur7.onrender.com/auth/login)
-[![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/ECommerce-)
-
-</td>
-<td width="50%" align="center">
-
-### 💬 **Talka - Task Manager**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=talka&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
-
-**Tech Stack:** `React` `Node.js` `Socket.io` `MongoDB`
-
-Real-time collaborative task management platform with live updates, progress tracking, and team coordination features.
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00f5ff?style=for-the-badge)](https://talka.onrender.com/login)
-[![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/Talka)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-###  💬 **Mini-Linkeidn**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=Mini_Linkedin&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
-
-**Tech Stack:** `MERN` `JWT` `Bcrypt` `AES Encryption`
-
-A full-stack LinkedIn clone built with the MERN stack, featuring real-time social networking capabilities, professional networking tools, and a modern responsive design.
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00f5ff?style=for-the-badge)](https://mini-linkedin-frontend-enib.onrender.com/)
-[![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/Mini_Linkedin)
-
-</td>
-<td width="50%" align="center">
-
-### 💬 **SocialSphere - Community Forum**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ITSAMARHERE&repo=SocialSphere&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
-
-**Tech Stack:** `React` `TypeScript` `Vite` `superBase` `TailwindCss`
-
-A comprehensive social media platform where users can connect, share updates, upload photos, and engage in real-time conversations with friends and communities.
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00f5ff?style=for-the-badge)](https://social-sphere-smoky.vercel.app/)
-[![Code](https://img.shields.io/badge/📂_Source-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ITSAMARHERE/SocialSphere)
-
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITSAMARHERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" />
 
 </div>
 
 ---
 
-## 📊 **GITHUB ANALYTICS**
+## 🏆 Professional Experience
 
-<div align="center">
+**Software Development Intern** @ Intelligent Creation, Pune  
+*Aug 2025 - Jan 2026*
 
-<img src="https://github-profile-trophy.vercel.app/?username=ITSAMARHERE&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ITSAMARHERE&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=00f5ff" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSAMARHERE&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00f5ff&dates=00f5ff" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITSAMARHERE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
+- Contributed to full SDLC development building backend APIs with Django
+- Created responsive UIs using Tailwind CSS and HTMX
+- Improved application performance through debugging and optimization
+- Collaborated in Agile teams and participated in code reviews
+- Gained hands-on experience with enterprise software workflows
 
 ---
 
-## 🌊 **CONTRIBUTION GRAPH**
+## 🎓 Certifications & Learning
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITSAMARHERE&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ff6b6b&area=true&area_color=00f5ff&title_color=00f5ff&custom_title=📈%20Contribution%20Activity" width="100%" />
-</div>
-
----
-
-## 💡 **SKILL PROGRESSION**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Problem] --> B[Analysis]
-    B --> C[Design]
-    C --> D[Code]
-    D --> E[Test]
-    E --> F[Deploy]
-    F --> G[Monitor]
-    G --> H[Optimize]
-    H --> A
-    
-    style A fill:#ff6b6b
-    style D fill:#00f5ff
-    style F fill:#4ecdc4
-    style H fill:#45b7d1
-```
-
-### **Current Learning Path**
-- 🎯 **Advanced System Design** - Microservices & Distributed Systems
-- 🚀 **Cloud Architecture** - AWS Solutions Architect
-- 🤖 **AI Integration** - LangChain & Vector Databases
-- 📱 **Mobile Development** - React Native
-
-</div>
+- **Machine Learning Basics** - Coursera
+- **Introduction to Java** - Online Platform
+- Currently pursuing: AWS Solutions Architect & Advanced System Design
 
 ---
 
-## 🌟 **ACHIEVEMENTS & CERTIFICATIONS**
+## 🌟 Leadership & Activities
 
-<div align="center">
+**Management Head** | technOTHARSH, Techno Main Salt Lake  
+*Jun 2024 - Jun 2025*
 
-| 🏆 Achievement | 📅 Year | 🎯 Skills |
-|:---:|:---:|:---:|
-| Full Stack Web Development | 2023 | MERN Stack |
-| AI & Machine Learning | 2024 | Python, TensorFlow |
-| Cloud Computing Fundamentals | 2024 | AWS, Docker |
-| Data Structures & Algorithms | 2023 | Problem Solving |
-
-</div>
+- Led a team of 50+ members in organizing inter-college technical events
+- Managed logistics, sponsorship coordination, and successful event execution
+- Developed leadership and team management skills
 
 ---
 
-## 🤝 **LET'S CONNECT & COLLABORATE**
+## 📫 Let's Connect
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-### **Find Me Around the Web** 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-pal-a945ba250/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amar-portofolio95.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmsl.aiml.amarpal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.amarhere/?hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE)
 
-### **🚀 Open to Opportunities**
-- 💼 Full Stack Development Projects
-- 🎓 Mentoring & Knowledge Sharing  
-- 🤝 Open Source Contributions
-- 💡 Innovative Startup Ideas
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<div align="center">
 
-### 💭 **Philosophy**
+### 💡 *"Code is not just about solving problems, it's about creating possibilities."*
 
-> *"Code is not just about solving problems, it's about creating possibilities. Every line of code is a step towards building a better digital future."*
+![Profile Views](https://komarev.com/ghpvc/?username=ITSAMARHERE&color=70a5fd&style=flat-square)
+![Followers](https://img.shields.io/github/followers/ITSAMARHERE?style=flat-square&color=70a5fd)
+![Stars](https://img.shields.io/github/stars/ITSAMARHERE?style=flat-square&color=70a5fd)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ITSAMARHERE&label=Profile%20Views&color=00f5ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ITSAMARHERE?label=Followers&style=flat-square&color=00f5ff)
-![Stars](https://img.shields.io/github/stars/ITSAMARHERE?label=Total%20Stars&style=flat-square&color=00f5ff)
-
-**⚡ Thanks for visiting! Let's build something amazing together! ⚡**
+**Thanks for visiting! Open to collaboration and opportunities. Let's build something amazing! 🚀**
 
 </div>
