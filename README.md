@@ -91,6 +91,9 @@ const amar = {
 - User activity analytics for performance insights
 - Scalable architecture for growth
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://campuscare.live/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANISHAGRWAL/SIH_25)
+
 **Timeline:** Aug 2025 - Nov 2025
 
 ---
@@ -174,6 +177,8 @@ const amar = {
 - Elbow Method for optimal cluster determination
 - Data visualization with Matplotlib
 - Actionable insights for targeted marketing strategies
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITSAMARHERE/customer_segmentation)
 
 **Timeline:** Jan 2026
 
